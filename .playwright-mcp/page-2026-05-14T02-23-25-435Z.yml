@@ -1,0 +1,41 @@
+- generic [ref=e648]:
+  - generic [ref=e649]:
+    - generic [ref=e650]:
+      - generic [ref=e651]:
+        - generic [ref=e652]:
+          - button "Open Menu" [ref=e653] [cursor=pointer]
+          - img "Open Menu" [ref=e654]
+        - generic [ref=e656]: Swag Labs
+        - generic [ref=e659]: "1"
+      - generic [ref=e661]: Your Cart
+    - generic [ref=e663]:
+      - generic [ref=e664]:
+        - generic [ref=e665]: QTY
+        - generic [ref=e666]: Description
+        - generic [ref=e685]:
+          - generic [ref=e686]: "1"
+          - generic [ref=e687]:
+            - link "Sauce Labs Bolt T-Shirt" [ref=e688] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e689]: Sauce Labs Bolt T-Shirt
+            - generic [ref=e690]: Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+            - generic [ref=e691]:
+              - generic [ref=e692]: $15.99
+              - button "Remove" [ref=e693] [cursor=pointer]
+      - generic [ref=e694]:
+        - button "Go back Continue Shopping" [ref=e695] [cursor=pointer]:
+          - img "Go back" [ref=e696]
+          - text: Continue Shopping
+        - button "Checkout" [ref=e697] [cursor=pointer]
+  - contentinfo [ref=e698]:
+    - list [ref=e699]:
+      - listitem [ref=e700]:
+        - link "Twitter" [ref=e701] [cursor=pointer]:
+          - /url: https://twitter.com/saucelabs
+      - listitem [ref=e702]:
+        - link "Facebook" [ref=e703] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e704]:
+        - link "LinkedIn" [ref=e705] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e706]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
